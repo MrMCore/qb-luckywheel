@@ -1,4 +1,4 @@
-QBCore = nil
+local QBCore = exports['qb-core']:GetCoreObject()
 local timeOut = false
 isRoll = false
 amount = 50000
