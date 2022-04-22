@@ -1,4 +1,4 @@
-QBCore = nil
+local QBCore = exports['qb-core']:GetCoreObject()
 local _wheel = nil
 local timeout = false
 local closestBank = nil
