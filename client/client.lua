@@ -6,7 +6,7 @@ local PlayerGender = "male"
 local _lambo = nil
 local _isShowCar = false
 local _wheelPos = vector3(1111.052, 229.84, -50.38)
-local _baseWheelPos = vector3(951.41, 63.77, 74.99)
+local _baseWheelPos = vector3(949.71, 45.1, 70.90)
 local Keys = {
 	["ESC"] = 322, ["BACKSPACE"] = 177, ["E"] = 38, ["ENTER"] = 18,	["LEFT"] = 174, ["RIGHT"] = 175, ["TOP"] = 27, ["DOWN"] = 173
 }
